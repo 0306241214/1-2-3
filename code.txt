@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 hello world
 <<<<<<< HEAD
 Xin chao Nguyen Van A
 =======
 Xin chao Tran Thi B
 >>>>>>> mssv2_hoten
+=======
+hello wolrd
+Xin  chao Le Van C
+>>>>>>> mssv3_hoten
