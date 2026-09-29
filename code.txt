@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 Xin chao Nguyen Van A
+=======
+Xin chao Tran Thi B
+>>>>>>> mssv2_hoten
